@@ -4,7 +4,7 @@ A spreadsheet with raw grading data was downloaded that contained multiple assig
 
 <img width="344" alt="spreadsheet_screenshot" src="https://user-images.githubusercontent.com/111674383/214432247-14f6c1c3-64ce-4925-bb5a-532e260d6925.png">
 
-A pivot table was then used to break down the total number of points earned and possible for each activity type.
+A pivot table was then used to break down the total number of points earned and possible for each activity type. Filters were used to display only the target assignment types and none of the blank rows.
 
 <img width="238" alt="pivot_table_screenshot" src="https://user-images.githubusercontent.com/111674383/214434153-a664f3b6-3a51-40c3-b716-a51db7ef3d8d.png">
 
