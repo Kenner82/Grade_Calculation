@@ -1,1 +1,3 @@
-# Grade_Calculation
+# Calculating Total Grades From Raw Data
+
+A spreadsheet with raw grading data was downloaded that contained multiple assignment types, and the target assignment types ("Quiz", "Exam", and "Activity") needed to be extracted from the strings within each row of that column. Extraneous columns were deleted, and the VBA [Like operator](https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/like-operator) was used in conjuction with the [* wildcard](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/wildcard-characters-used-in-string-comparisons) to find and label data in a new column. 
